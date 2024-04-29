@@ -1,4 +1,4 @@
-![Boilerplate](https://github.com/tbranyen/backbone-boilerplate/raw/assets/header.png)
+![Boilerplate](https://github.com/jscott/backbone-boilerplate/raw/assets/header.png)
 
 [![Build status][travis-image]][travis-url] 
 [![Code coverage][coveralls-image]][coveralls-url] 
@@ -15,7 +15,7 @@ The Backbone Boilerplate is a way of organizing a web application with some
 opinionated defaults, such as: [Backbone](http://backbonejs.org),
 [jQuery](http://jquery.com), [Lodash](http://lodash.com),
 [Grunt](http://gruntjs.com), [Babel](https://babeljs.io/),
-[Combyne](https://github.com/tbranyen/combyne),
+[Combyne](https://github.com/jscott/combyne),
 [Karma](http://karma-runner.github.io/0.12/index.html),
 [Mocha](https://mochajs.org), and [PureCSS](http://purecss.io/) for styles.
 
@@ -24,7 +24,7 @@ Models/Collections/Views/Routers inside modules, and build knowing you have
 efficient code that will not bottleneck your users.
 
 Thanks to our
-[Contributors](https://github.com/tbranyen/backbone-boilerplate/contributors)!
+[Contributors](https://github.com/jscott/backbone-boilerplate/contributors)!
 Special Thanks to: [cowboy](http://github.com/cowboy),
 [iros](http://github.com/iros), [nimbupani](http://github.com/nimbupani),
 [wookiehangover](http://github.com/wookiehangover), and
@@ -35,7 +35,7 @@ fantastic Boilerplate character.
 
 ## Documentation ##
 
-[Backbone Boilerplate Wiki](https://github.com/tbranyen/backbone-boilerplate/wiki)
+[Backbone Boilerplate Wiki](https://github.com/jscott/backbone-boilerplate/wiki)
 
 ## Getting started ##
 
@@ -44,7 +44,7 @@ The easiest way to get started is to install Git and clone the repository:
 ``` bash
 # Using Git, fetch only the latest commits.  You won't need the full history
 # for your project.
-git clone --depth 1 https://github.com/tbranyen/backbone-boilerplate
+git clone --depth 1 https://github.com/jscott/backbone-boilerplate
 
 # Move the repository to your own project name.
 mv backbone-boilerplate my-project
@@ -95,12 +95,12 @@ change source files.
 By default, the test runner is BDD Mocha and uses Node's assert.
 
 ## License ##
-Copyright © 2015 Tim Branyen (@tbranyen)  
+Copyright © 2015 James Scott (@jscott)  
 Licensed under the MIT license.
 
-[travis-url]: http://travis-ci.org/tbranyen/backbone-boilerplate
-[travis-image]: https://img.shields.io/travis/tbranyen/backbone-boilerplate.svg
-[coveralls-url]: https://coveralls.io/r/tbranyen/backbone-boilerplate
-[coveralls-image]: https://img.shields.io/coveralls/tbranyen/backbone-boilerplate.svg
-[gitter-url]: https://gitter.im/tbranyen/backbone-boilerplate
+[travis-url]: http://travis-ci.org/jscott/backbone-boilerplate
+[travis-image]: https://img.shields.io/travis/jscott/backbone-boilerplate.svg
+[coveralls-url]: https://coveralls.io/r/jscott/backbone-boilerplate
+[coveralls-image]: https://img.shields.io/coveralls/jscott/backbone-boilerplate.svg
+[gitter-url]: https://gitter.im/jscott/backbone-boilerplate
 [gitter-image]: https://img.shields.io/badge/GITTER-join%20chat-green.svg
